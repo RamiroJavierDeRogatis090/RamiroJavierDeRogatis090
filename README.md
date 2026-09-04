@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hola, soy Ramiro Javier De Rogatis
 
-<!--
-**RamiroJavierDeRogatis090/RamiroJavierDeRogatis090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería Informática en la Universidad Nacional de La Matanza (UNLaM).
 
-Here are some ideas to get you started:
+💻 Actualmente me encuentro desarrollando proyectos para fortalecer mis conocimientos en programación, bases de datos, automatización y desarrollo web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías
+
+- Python
+- C
+- PostgreSQL
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git & GitHub
+
+## 📂 Proyectos Destacados
+
+### 🐉 ChimueloBot
+Bot desarrollado en Python para automatizar el envío de recordatorios de partidos mediante WhatsApp.
+
+### 🎥 Videoclub System
+Sistema de gestión de videoclub desarrollado en lenguaje C.
+
+### 🧠 Memo Test en C
+Juego de memoria desarrollado utilizando SDL y lenguaje C.
+
+### 🐍 Snake Game
+Implementación del clásico juego de la víbora desarrollada en Python.
+
+### ⚽ Tabla de Goleadores
+Aplicación web para la administración y visualización de estadísticas de fútbol.
+
+## 🌱 Actualmente aprendiendo
+
+- PostgreSQL
+- Bases de Datos
+- Estructuras de Datos
+- Desarrollo Backend
+
+## 📫 Contacto
+
+📧 ramirojavierderogatis@hotmail.com
+
+🌐 Portfolio:
+https://ramirojavierderogatis090.github.io
+
+---
+
+⭐ Siempre buscando aprender nuevas tecnologías y construir proyectos que resuelvan problemas reales.
