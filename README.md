@@ -13,7 +13,10 @@
 - CSS
 - JavaScript
 - SQL
+- Kotlim
+- n8n
 - Git & GitHub
+  
 
 ## 📂 Proyectos Destacados
 
