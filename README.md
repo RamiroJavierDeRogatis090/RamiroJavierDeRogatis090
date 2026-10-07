@@ -13,7 +13,7 @@
 - CSS
 - JavaScript
 - SQL
-- Kotlim
+- Kotlin
 - n8n
 - Git & GitHub
   
