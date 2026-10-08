@@ -9,7 +9,7 @@ Estudiante de Ingeniería Informática en la Universidad Nacional de La Matanza 
 ## Sobre mí
 
 - 💻 Desarrollando proyectos para fortalecer mis conocimientos en programación, bases de datos, automatización y desarrollo web.
-- 🌱 Actualmente aprendiendo: PostgreSQL, Bases de Datos, Estructuras de Datos y Desarrollo Backend.
+- 📚 Actualmente aprendiendo: PostgreSQL, Bases de Datos, Estructuras de Datos y Desarrollo Backend.
 - ⭐ Siempre buscando aprender nuevas tecnologías y construir proyectos que resuelvan problemas reales.
 
 ## Tecnologías
@@ -37,7 +37,7 @@ Estudiante de Ingeniería Informática en la Universidad Nacional de La Matanza 
 
 | Proyecto | Descripción | Tecnologías | Repo | Demo |
 |---|---|---|---|---|
-| Asistente-Inteligente-para-WhatsApp-Chimuelo-bot | Bot conversacional de WhatsApp con personalidad argentina. Cuando alguien lo menciona en un chat privado, responde con un LLM local, sin depender de servicios en la nube. | Python | [Repo](https://github.com/RamiroJavierDeRogatis090/Asistente-Inteligente-para-WhatsApp-Chimuelo-bot) | - |
+| Asistente-Inteligente-para-WhatsApp-Chimuelo-bot | Bot conversacional de WhatsApp con personalidad argentina. Cuando alguien lo menciona en un chat privado, responde con un LLM local, sin depender de servicios en la nube. | Docker, N8N + api WP | [Repo](https://github.com/RamiroJavierDeRogatis090/Asistente-Inteligente-para-WhatsApp-Chimuelo-bot) | - |
 | Videoclub System | Sistema de gestión de videoclub. | C | [Repo](https://github.com/RamiroJavierDeRogatis090/Videoclub-System) | - |
 | DailyDex | gestor de tareas diarias desarrollado en android estudio | kotlin| [Repo](https://github.com/RamiroJavierDeRogatis090/DailyDex) | [Demo](https://drive.google.com/file/d/1VwYkmWOeABwi9HNlTQNy6Zw2i73MxRpG/view?usp=sharing)|
 | Snake Game | Implementación del clásico juego de la víbora. | Python | [Repo](https://github.com/RamiroJavierDeRogatis090/snake_game) | - |
