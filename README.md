@@ -37,11 +37,11 @@ Estudiante de Ingeniería Informática en la Universidad Nacional de La Matanza 
 
 | Proyecto | Descripción | Tecnologías | Repo | Demo |
 |---|---|---|---|---|
-| ChimueloBot | Bot para automatizar el envío de recordatorios de partidos mediante WhatsApp. | Python | [Repo](https://github.com/RamiroJavierDeRogatis090/ChimueloBot) | - |
+| Asistente-Inteligente-para-WhatsApp-Chimuelo-bot | Bot conversacional de WhatsApp con personalidad argentina. Cuando alguien lo menciona en un chat privado, responde con un LLM local, sin depender de servicios en la nube. | Python | [Repo](https://github.com/RamiroJavierDeRogatis090/Asistente-Inteligente-para-WhatsApp-Chimuelo-bot) | - |
 | Videoclub System | Sistema de gestión de videoclub. | C | [Repo](https://github.com/RamiroJavierDeRogatis090/Videoclub-System) | - |
-| Memo Test en C | Juego de memoria desarrollado utilizando SDL. | C, SDL | [Repo](https://github.com/RamiroJavierDeRogatis090/Memo-Test-C) | - |
+| DailyDex | gestor de tareas diarias desarrollado en android estudio | kotlin| [Repo](https://github.com/RamiroJavierDeRogatis090/DailyDex) | [Demo](https://drive.google.com/file/d/1VwYkmWOeABwi9HNlTQNy6Zw2i73MxRpG/view?usp=sharing)|
 | Snake Game | Implementación del clásico juego de la víbora. | Python | [Repo](https://github.com/RamiroJavierDeRogatis090/Snake-Game) | - |
-| Tabla de Goleadores | Aplicación web para la administración y visualización de estadísticas de fútbol. | HTML, CSS, JavaScript | [Repo](https://github.com/RamiroJavierDeRogatis090/Tabla-de-Goleadores) | [Demo](https://ramirojavierderogatis090.github.io/Tabla-de-Goleadores) |
+| Tabla de Goleadores | Aplicación web para la administración y visualización de estadísticas de fútbol. | HTML, CSS, JavaScript | [Repo](https://github.com/RamiroJavierDeRogatis090/Tabla-de-Goleadores) | [Demo](https://ramiroderogatis.com/Tabladegoleadores.github.io/) |
 
 ## Estadísticas de GitHub
 
