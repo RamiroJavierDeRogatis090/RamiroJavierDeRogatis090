@@ -23,6 +23,8 @@ Estudiante de Ingeniería Informática en la Universidad Nacional de La Matanza 
 
 ### Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=mlor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&b&logoColor=white)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
